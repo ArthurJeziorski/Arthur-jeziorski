@@ -1,0 +1,27 @@
+{
+  "name": "arthur-jeziorski",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ArthurJeziorski/Arthur-jeziorski#readme",
+  "bugs": {
+    "url": "https://github.com/ArthurJeziorski/Arthur-jeziorski/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurJeziorski/Arthur-jeziorski.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pg": "^8.22.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
